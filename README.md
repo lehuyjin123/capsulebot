@@ -11,6 +11,16 @@ CAD and propulsion analysis for an underwater capsule robot. The repository incl
 | [Data](Data) | Fluent force and moment reports for 3,000–12,000 rpm and reference plots |
 | [matlab](matlab) | Theoretical thrust calculation |
 
+## CFD gallery
+
+| Velocity contour | Simulation domains |
+| --- | --- |
+| ![Fluent velocity contour around the capsule](docs/gallery/velocity-contour.jpg) | ![Circular simulation regions in the CAD workspace](docs/gallery/simulation-domains.jpg) |
+
+| Capsule geometry | Solver convergence |
+| --- | --- |
+| ![Capsule body selected in the simulation geometry](docs/gallery/capsule-geometry.jpg) | ![Fluent iteration history](docs/gallery/fluent-convergence.jpg) |
+
 ## Reproduce the analysis
 
 Run from the repository root:
